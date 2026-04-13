@@ -1,0 +1,4 @@
+openvino
+cv2
+rerun
+numpy
